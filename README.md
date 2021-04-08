@@ -1,4 +1,4 @@
-## Hi! I’m Neven🤗
+## Hi! I’m neven🤗
 - 👨‍💻 Python developer
 - ⚽ Soccer dog 🐶
 - 💯 Love **BVB**
