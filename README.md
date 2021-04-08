@@ -1,6 +1,7 @@
 ## Hi! I’m Neven🤗
-- 👨‍💻 A Python developer
-- :soccer: Heja! BVB
+- 👨‍💻 Python developer
+- ⚽ Soccer dog 🐶
+- 💯 Love **BVB**
 
 <!---
 fr4wanglei/fr4wanglei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
